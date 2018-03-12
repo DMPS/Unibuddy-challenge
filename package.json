@@ -1,0 +1,11 @@
+{
+  "name": "chateventschallenge",
+  "version": "1.0.0",
+  "description": "This page contains a coding challenge for Software Engineering roles at Unibuddy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dalton Scott",
+  "license": "ISC"
+}

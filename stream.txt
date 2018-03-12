@@ -1,0 +1,13 @@
+User|Emma|Edinburgh|Applicant
+User|Sam|Edinburgh|Applicant
+User|Joe|Edinburgh|Mentor
+User|Tom|Glasgow|Applicant
+User|Dave|Glasgow|Mentor
+ChatGroup|1|Emma|Sam
+ChatGroup|2|Emma|Joe
+ChatGroup|3|Emma|Dave
+Message|Sam|1|Hello|2015-01-01 10:00:00
+Message|Emma|2|Blue|2015-01-01 11:00:00
+Message|Joe|2|Welcome|2015-01-01 12:00:00
+Message|Emma|2|Green|2015-01-01 13:00:00
+Message|Joe|2|Yo|2015-01-01 15:00:00
